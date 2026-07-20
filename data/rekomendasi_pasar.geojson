@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.628,
+          -7.234
+        ]
+      },
+      "properties": {
+        "nama_lokasi": "Pasar Satelit Benowo",
+        "alasan": "Berada di tengah 3 klaster PKL blank spot (Benowo, Romokalisari, Tambak Oso Wilangon) dengan total 92 PKL",
+        "klaster_terlayani": "PKL Jl. Raya Benowo, PKL Romokalisari, PKL Tambak Oso Wilangon",
+        "jumlah_pkl_terlayani": 92,
+        "kecamatan": "Benowo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.645,
+          -7.288
+        ]
+      },
+      "properties": {
+        "nama_lokasi": "Pasar Satelit Sambikerep",
+        "alasan": "Menjangkau klaster PKL di Sambikerep & Lakarsantri yang saat ini harus menempuh >5 KM ke Pasar Manukan",
+        "klaster_terlayani": "PKL Jl. Raya Made, PKL Lontar, PKL Bangkingan",
+        "jumlah_pkl_terlayani": 86,
+        "kecamatan": "Sambikerep"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79,
+          -7.34
+        ]
+      },
+      "properties": {
+        "nama_lokasi": "Pasar Satelit Gunung Anyar",
+        "alasan": "Kawasan pesisir selatan tanpa pasar tradisional, mayoritas PKL bergantung pada pengepul dengan harga markup tinggi",
+        "klaster_terlayani": "PKL Gunung Anyar Tambak, PKL Medokan Ayu",
+        "jumlah_pkl_terlayani": 63,
+        "kecamatan": "Gunung Anyar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.788,
+          -7.235
+        ]
+      },
+      "properties": {
+        "nama_lokasi": "Pasar Satelit Bulak",
+        "alasan": "Kawasan pesisir utara dengan konsentrasi PKL ikan & seafood, belum terjangkau pasar formal",
+        "klaster_terlayani": "PKL Bulak Kenjeran, PKL Kenjeran Pantai",
+        "jumlah_pkl_terlayani": 62,
+        "kecamatan": "Bulak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7,
+          -7.332
+        ]
+      },
+      "properties": {
+        "nama_lokasi": "Pasar Satelit Karangpilang",
+        "alasan": "Area selatan-barat Surabaya dengan pertumbuhan permukiman baru, 3 klaster PKL tanpa akses pasar dalam radius 3 KM",
+        "klaster_terlayani": "PKL Gayungan Selatan, PKL Wiyung Barat, PKL Karangpilang",
+        "jumlah_pkl_terlayani": 77,
+        "kecamatan": "Karangpilang"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1607 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7395682,
+          -7.2722077
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Kedondong",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "321 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 4461489614,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6719081,
+          -7.2594481
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Sikatan",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "178 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 4580573991,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6624319,
+          -7.2620715
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Darurat (Manukan Kulon)",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "291 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 4620142013,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6311821,
+          -7.3029984
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Surya Lakarsantri",
+        "jam_operasional": "Mo-Su 06:00-16:00",
+        "kapasitas": "340 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 6385175425,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.715416,
+          -7.2523872
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Asemrowo",
+        "jam_operasional": "Setiap Hari, Pukul 05.00-13.00",
+        "kapasitas": "190 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 6385188516,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7168697,
+          -7.2604078
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Pacuan Kuda",
+        "jam_operasional": "Mo-Su 05:00-09:00",
+        "kapasitas": "306 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 7198974385,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7148342,
+          -7.2454783
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Loak Dupak Baru",
+        "jam_operasional": "Mo-Su 07:00-12:00",
+        "kapasitas": "318 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 7996241385,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7296146,
+          -7.250655
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Turi",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "338 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 9813603547,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7537377,
+          -7.2956031
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Krukah",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "252 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 9821437778,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7135024,
+          -7.268732
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Surya",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "181 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 215101231,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7427259,
+          -7.2748169
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Keputran",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "296 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 219077459,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6838039,
+          -7.2759452
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Permai",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "306 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 280307917,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7793476,
+          -7.3024239
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Semolowaru",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "282 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 302536201,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7709208,
+          -7.3306478
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Pahing",
+        "jam_operasional": "Sa-Su 04:00-17:00",
+        "kapasitas": "167 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 311381412,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6648548,
+          -7.1986015
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Tempat Pelelangan Ikan",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "207 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 311980592,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.662212,
+          -7.2599552
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Manukan Kulon",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "320 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 349650754,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7778748,
+          -7.3218274
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Sinar Baru",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "189 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 446941410,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7529323,
+          -7.2677089
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Gubeng Masjid",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "278 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 447608021,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7389218,
+          -7.2604234
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Tunjungan",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "301 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 447623103,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7492569,
+          -7.2475354
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Pecindilan",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "322 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 447623735,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7431756,
+          -7.2863725
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Dinoyo Tangsi",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "228 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 447712076,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7293813,
+          -7.2695317
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Kembang",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "332 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 448271628,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7363881,
+          -7.2678998
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Kedungsari",
+        "jam_operasional": "Mo-Su,PH 04:00-13:00",
+        "kapasitas": "176 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 449182769,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7379294,
+          -7.264318
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Kaliasin",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "210 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 449294401,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7869259,
+          -7.2252865
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Sentra Ikan Bulak",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "311 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 449316496,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7786128,
+          -7.2390892
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Setro Makmur",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "172 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 449519092,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7734123,
+          -7.2336631
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Rabardjo",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "339 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 449624547,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7583497,
+          -7.2605644
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Pacar Keling",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "184 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 449624585,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7407353,
+          -7.2585594
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Genteng Baru Surabaya",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "240 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 449639964,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7390015,
+          -7.2493591
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Kepatihan",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "327 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 449650272,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.760121,
+          -7.2977451
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Bunga Bratang",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "180 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 449652767,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.745577,
+          -7.2270111
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Pegirian",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "304 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 449832222,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7495085,
+          -7.2392326
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Kapasan",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "334 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 450294237,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7533897,
+          -7.2840031
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Pucang Anom",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "339 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 450509693,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.768445,
+          -7.2323513
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Pogot",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "299 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 450521503,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7623458,
+          -7.2808641
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Manyar Surabaya",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "198 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 450537996,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7953533,
+          -7.2558368
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Tradisional Tempurejo",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "181 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 450698653,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7426904,
+          -7.3029323
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Jagir",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "259 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 450988776,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7770935,
+          -7.2227477
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Surya Kedinding",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "316 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 451275115,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7325379,
+          -7.2368075
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Krembangan",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "231 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 451492077,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7722678,
+          -7.323106
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Rungkut Baru",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "207 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 451558997,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7716157,
+          -7.3229964
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Soponyono",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "257 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 451558998,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74593,
+          -7.3375337
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Tradisional Syariah Az Zaitun I Kutisari",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "172 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 451666790,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7354749,
+          -7.2284474
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Baba'an Baru",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "194 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 451826906,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7256896,
+          -7.2945625
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Wonokitri",
+        "jam_operasional": "Mo-Su,PH 05:00-12:00",
+        "kapasitas": "162 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 451857622,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7610529,
+          -7.2179311
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Bulak Banteng",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "198 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 452173173,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.765322,
+          -7.2124181
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Bulak Banteng",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "198 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 452371764,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7437623,
+          -7.2778157
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Keputran Selatan",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "233 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 452580518,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7519682,
+          -7.2236596
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Buah Pegirian",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "284 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 452601173,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7667668,
+          -7.2187068
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Podomoro",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "346 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 453439341,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7148142,
+          -7.2456174
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Dupak Baru",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "313 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 453890072,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6515515,
+          -7.3123418
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Tradisional Jala Wage",
+        "jam_operasional": "Mo-Su 06:00-12:00",
+        "kapasitas": "341 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 453926014,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7226261,
+          -7.2436418
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Toko Barokah dan Isi Ulang",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "343 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 454132663,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7258328,
+          -7.2427652
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Dupak Jaya",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "155 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 454182588,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7335163,
+          -7.2565646
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Blauran Baru",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "171 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 455037163,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7171834,
+          -7.2390493
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Bangun Rejo",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "153 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 455426669,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6988959,
+          -7.2841553
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Tradisional Darmo Permai",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "303 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 455437293,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6689423,
+          -7.2686518
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Dorowati",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "154 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 455599080,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6940919,
+          -7.3141678
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Wiyung",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "269 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 455658114,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7221691,
+          -7.2785928
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Kupang Gunung",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "324 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 455662485,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7268083,
+          -7.2555002
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Tembok Dukuh",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "348 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 456503375,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.695114,
+          -7.3417828
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Karang Pilang",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "196 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 456691659,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7011782,
+          -7.2560316
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Buah Tradisional",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "173 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 457112884,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7286967,
+          -7.2494949
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Gundih",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "319 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 457121451,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7505321,
+          -7.3247979
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Surya Kendangsari",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "192 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 458603907,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7063033,
+          -7.2715788
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Simo Hilir",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "277 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 458634483,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6583737,
+          -7.2552984
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Banjar Sugihan",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "268 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 459701260,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7112939,
+          -7.2808954
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Dukuh Kupang",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "198 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 459921941,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6791202,
+          -7.2594087
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Surya Balongsari",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "311 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 459961189,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7519965,
+          -7.3095612
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Krempyeng Sidosermo",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "298 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 461091820,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6512881,
+          -7.2518595
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Kandangan",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "167 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 461277740,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7822853,
+          -7.3222544
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Penjaringan Sari",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "212 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 461325703,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7104958,
+          -7.3334849
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar LKMK Pageasangan",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "157 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 463387637,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7243718,
+          -7.3060063
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Ikan Hias Gunung Sari",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "248 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 464005721,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.645689,
+          -7.2512482
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Bandarejo",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "345 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 464019349,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7364664,
+          -7.3066236
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Bendul Merisi",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "194 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 464034846,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6541557,
+          -7.2118123
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Induk Oso Wilangon",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "322 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 464056570,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7208415,
+          -7.3322047
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Surya Gayungsari",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "269 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 465070540,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6353126,
+          -7.2501127
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Kendung",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "228 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 465324247,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7342474,
+          -7.3331431
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Siwalankerto",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "151 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 467091986,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7271338,
+          -7.2746784
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Kupang",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "345 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 468265000,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6110494,
+          -7.2346081
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Tradisional Benowo",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "197 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 468637720,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7199113,
+          -7.3423915
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Dukuh Menanggal",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "230 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 468664312,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7917733,
+          -7.2592646
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Sutorejo",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "201 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 470490064,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7607245,
+          -7.2978135
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Burung Bratang",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "271 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 471347448,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7647769,
+          -7.2789143
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Kantor Pusat PD Pasar Surya",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "173 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 474313587,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7407472,
+          -7.2348251
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Pabean",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "272 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 486276844,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6456206,
+          -7.2760321
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Fresh Market Citraland",
+        "jam_operasional": "Mo-Su 05:30-15:00",
+        "kapasitas": "254 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 487357290,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7839623,
+          -7.3218245
+        ]
+      },
+      "properties": {
+        "nama_pasar": "Pasar Wisata Penjaringan Sari",
+        "jam_operasional": "04:00-14:00",
+        "kapasitas": "235 stan",
+        "kecamatan": "Surabaya",
+        "osm_id": 801863448,
+        "sumber": "OpenStreetMap (Overpass API)"
+      }
+    }
+  ]
+}
