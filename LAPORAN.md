@@ -1,6 +1,8 @@
 # LAPORAN
 # Peta Interaktif Keadilan Spasial Akses Bahan Baku PKL Kota Surabaya
 
+**Disusun oleh: Liandy**
+
 ---
 
 ## 1. Pendahuluan
@@ -170,8 +172,6 @@ GitHub Repository (Public) → Streamlit Community Cloud → Auto Deploy → Liv
 ### 4.3 Live URL
 
 > **🔗 [Klik di sini untuk membuka peta web](https://sig-pkl-surabaya.streamlit.app)**
->
-> *(URL akan aktif setelah deployment ke Streamlit Community Cloud)*
 
 ---
 
@@ -209,4 +209,4 @@ GitHub Repository (Public) → Streamlit Community Cloud → Auto Deploy → Liv
 
 ---
 
-*Laporan ini dibuat sebagai bagian dari Tugas Sistem Informasi Geografis — 2026*
+*Laporan ini disusun oleh **Liandy** sebagai bagian dari Tugas Sistem Informasi Geografis — 2026*

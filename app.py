@@ -655,6 +655,7 @@ def main():
     <div class="footer">
         🗺️ Peta Interaktif Keadilan Spasial Akses Bahan Baku PKL Surabaya<br>
         Dibuat untuk Tugas Sistem Informasi Geografis — 2026<br>
+        <strong>Disusun oleh: Liandy</strong><br>
         Data pasar: OpenStreetMap | Visualisasi: Streamlit + Folium
     </div>
     """, unsafe_allow_html=True)
